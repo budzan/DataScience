@@ -7,4 +7,5 @@ df = pd.read_csv("C:/Resources/Python/Data Science/Telco-customer-churn.csv")
 print(df.head())
 
 # Data Manipulation
-a
+aytf
+t
